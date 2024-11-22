@@ -99,8 +99,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Showcase INDDES ITB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -139,8 +139,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Acara Minefest</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -177,8 +177,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Perpustakaan</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -217,8 +217,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Silver Parade ITS 2021</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -255,8 +255,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent  className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Pengembangan Website Clapeyron UGM</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -295,8 +295,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Cryptoiz</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -337,8 +337,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Showcase INDDES ITB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -381,8 +381,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Pemesanan Tiket PSM ITB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -422,8 +422,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website ICEE ITB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -470,8 +470,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Tes Deteksi Kewaspadaan</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -509,8 +509,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Ganesha Business Festival 2022</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -553,8 +553,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Tes Deteksi Kewaspadaan</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -594,8 +594,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Miniplant Monitoring System</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -634,8 +634,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Website Monitoring In&Out Car</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -676,8 +676,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Aplikasi Desktop Desain Pumping Unit Sumur Minyak Pertamina</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -716,8 +716,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Game Cindua Mato
                                 </SheetTitle>
@@ -759,8 +759,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-opacity-70 bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Aplikasi Android Arcade Game</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -799,8 +799,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Pengembangan Aplikasi Tomas
                                 </SheetTitle>
@@ -839,8 +839,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent className="overflow-y-scroll">
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="overflow-y-scroll bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Divusi Car Travel</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -887,8 +887,8 @@ const Portofolio = () => {
                 </h3>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Proyek e-Vote HMT ITB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
@@ -927,8 +927,8 @@ const Portofolio = () => {
                 <p> </p>
                 <div className="justify-center flex">
                     <Sheet>
-                        <SheetTrigger className="bg-[#FA3A91] hover:bg-fuchsia-400 px-2 py-1 rounded-xl">Pelajari Lebih Lanjut</SheetTrigger>
-                        <SheetContent>
+                        <SheetTrigger className="bg-[#1B1A80] hover:bg-fuchsia-400 px-2 py-1 rounded-xl text-white">Pelajari Lebih Lanjut</SheetTrigger>
+                        <SheetContent className="bg-cover bg-center bg-[url('/background_sheet.jpg')] text-white">
                             <SheetHeader>
                                 <SheetTitle className="text-extrabold text-xl">Simulasi Vehicle Dynamics dengan MATLAB</SheetTitle>
                                     <SheetDescription className="text-normal text-md">
