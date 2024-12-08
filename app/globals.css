@@ -1,12 +1,15 @@
+/* Global Styles - base.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Global Font and Body Settings */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 @layer base {
+  /* Global Color Palette Variables */
   :root {
     --background: 0 0% 100%;
     --foreground: 0 0% 3.9%;
@@ -34,6 +37,8 @@ body {
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
   }
+
+  /* Dark Mode Overrides */
   .dark {
     --background: 0 0% 3.9%;
     --foreground: 0 0% 98%;
@@ -60,13 +65,98 @@ body {
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
-}
 
-@layer base {
+  /* Global Styling */
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Component Styles - navbar-footer.css */
+@layer components {
+  /* Navbar Styles */
+  .navbar {
+    @apply sticky top-0 z-50 bg-gradient-to-l from-[#4D194D] to-[#212F45] font-sans text-lg px-7 py-2 w-full flex justify-between items-center;
+  }
+
+  .navbar-menu {
+    @apply flex space-x-2;
+  }
+
+  .navbar-item a {
+    @apply block px-4 py-2 text-center text-[#FDE67E] rounded-sm hover:bg-[#FDE67E] hover:text-black transition duration-300;
+  }
+
+  .ajukan-proyek a {
+    @apply bg-[#39968A] text-[#ffffff];
+  }
+
+  .footer {
+    @apply bg-gradient-to-t from-[#212F45] to-[#4D194D] bg-no-repeat bg-cover bg-center p-4 m-0 min-h-max;
+    background-image: url('/footer-wave-1.svg');
+  }
+  
+  .item {
+    @apply flex flex-row justify-between items-center mt-72;
+  }
+  
+  .logo {
+    @apply flex items-center;
+  }
+  
+  .logo-pic-container {
+    @apply w-24 h-24 bg-white rounded-full flex justify-center items-center;
+  }
+  
+  .logo-pic {
+    @apply w-16 h-16 object-cover;
+  }
+  
+  .logo-title {
+    @apply text-[#000080] text-2xl font-bold;
+  }
+  
+  .logo-desc {
+    @apply text-white text-base;
+  }
+  
+  .contact {
+    @apply flex flex-col items-start mr-8;
+  }
+  
+  .rights-text {
+    @apply text-white text-center mt-8 text-sm;
+  }
+  
+  .social-text {
+    @apply text-[#000080] mt-2 mb-2 text-xl font-bold;
+  }
+  
+  .social-link {
+    @apply flex gap-4 justify-center items-center;
+  }
+  
+  .social-link a {
+    @apply inline-flex justify-center items-center;
+  }
+  
+  .hubungi {
+    @apply text-black font-bold text-2xl mb-2;
+  }
+  
+  .alamat {
+    @apply text-lg;
+  }
+  
+  .telepon {
+    @apply text-lg font-bold mt-2;
+  }
+  
+  .telepon:hover {
+    @apply underline;
+  }  
 }

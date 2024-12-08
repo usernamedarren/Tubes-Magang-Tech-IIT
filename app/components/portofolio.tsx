@@ -59,7 +59,7 @@ export default function Portofolio() {
     }, [searchText, selectedCategory]);
 
     return (
-        <main className="bg-gradient-to-br from-amber-200 to-slate-200 p-5">
+        <main className="bg-[#FDE67E] p-5">
             <h1 className={`${header.className} text-center font-extrabold text-4xl mt-5`}>Portofolio</h1>
             <h3 className={`${header.className} text-center font-bold text-xl`}>Inkubator IT</h3>
 
