@@ -32,7 +32,7 @@ const Home: React.FC = () => {
         <h2 className="text-2xl font-bold text-gray-700">Project Inkubator IT</h2>
         <p className="text-gray-500 mt-2">Halaman ini menampilkan daftar proyek yang sedang dikerjakan.</p>
       </div>
-      <ProjectList projects={projects} />
+      <ProjectList/>
     </Layout>
   );
 };
